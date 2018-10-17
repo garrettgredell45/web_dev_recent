@@ -5,31 +5,32 @@ another new text line
 
 ## Garrett Gredell
 
-**bold text hopefully**
+**bold text**
 
-*slightly slanted text aka Italics (hopefully)*
+*slightly slanted text aka Italics*
 
 
 Things I like:
-1. not coding
-2. playing outside
-
+1. Running
+2. playing music!
 
 Things I don't like:
 
 - Tuna
 
-- coding without wearing matrix clothing
+- waking up super early
 
-`wtf is a code block?`
-did I do it right??
+`what is a code block?`
+did I do it right?!
 
 
 ---
-here is a link to something cool I guess
+here is a link to my favorite animal
 
 [hope you like english bulldogs](https://www.youtube.com/watch?v=nyZk6CGdfhM&t=383s)
 
 ![image](./images/screenshot_of_directory.jpg)
 
-Honestly this has been one of the most difficult first assignments for any class. Probably because I have no experience with coding. Its gonna be a journey, but I like journeys... usually.
+Web Dev is a seemingly complicated task, but with practice
+and a lot of help it can become second nature pretty quickly.
+This is my second go at this class and so far it is much easier than before and I feel like I have a better understanding and appreciation for the web dev craft. Thanks Justine!
