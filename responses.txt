@@ -1,10 +1,11 @@
 <h1>Responses to Assignment 2 Reading<h1>
   <h2>Garrett Gredell<h2>
-    <ul>
-      <li>Data can be transferred through "packets"</li>
-      <li>IP addresses belong to each individual device, and DNS are used to translate and IP address</li>
-      <li>Cookies are small pieces of data used to store stateful information for independent users on a website</li>
-      <li>The three main parts of a URL are the Protocol, Domain Name, and Path</li>
-    </ul>
+  <p>Here is a list of responses</p>
+      <ul>
+        <li>Data can be transferred through "packets"</li>
+        <li>IP addresses belong to each individual device, and DNS are used to translate and IP address</li>
+        <li>Cookies are small pieces of data used to store stateful information for independent users on a website</li>
+        <li>The three main parts of a URL are the Protocol, Domain Name, and Path</li>
+      </ul>
 
     <img src="C:\Users\Blake\Desktop\web_dev\web_dev_recent\web_dev_hw\Assignment_2\images"
