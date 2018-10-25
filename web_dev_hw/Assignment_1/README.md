@@ -7,6 +7,7 @@
       <li>The internet is NOT the web</li>
       <li>approximately 3.2 billion people use the net on a daily basis</li>
       <li> Bots create the majority of Internet traffic</li>
+    </ul>  
 <hr />
 
   <h3>My Resources<h3>
@@ -16,5 +17,3 @@
       <a href="https://media-ed-online.github.io/intro-web-dev/"Course Website</a>
 
         <img src="http://bit.ly/2DIVG46"
-
-        
