@@ -20,7 +20,7 @@
 
   table.GeneratedTable td, table.GeneratedTable th {
     border-width: 5px;
-    border-color: #000000;
+    border-color: #;
     border-style: solid;
     padding: 5px;
   }
@@ -30,7 +30,6 @@
   }
   </style>
 
-  <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
   <table class="GeneratedTable">
     <thead>
       <tr>
@@ -134,25 +133,54 @@
     <li>Komplete Package: 6 Programs <b>($225)</b></li>
     <li>Kickers Soccer Program ONLY <b>($25)</b></li>
   </ul>
-
-  <h4>Jerseys<h4>
+<h4>Registration Information<h4>
+<p>Date of Birth</p>
+    <input type="text" name="DOB" id="Date of Birth" placeholder="12/05/1994" />
+<p>First Name</p>
+  <input type="text" name="First" id="First Name" placeholder="First Name" />
+  <p>Middle Name</p>
+  <input type="text" name="Middle" id="Middle Name" placeholder="Middle name" />
+  <p>Last Name</p>
+  <input type="text" name="Last" id="Last Name" placeholder="Last Name" />
+  </br><p>Choose your Programs:</p>
+    <select name="Programs">
+      <option value="AL">Kommunity Kampfires</option>
+      <option value="AK">Kamping</option>
+      <option value="AZ">Katfish Swimming</option>
+      <option value="AR">Kickers Kamp</option>
+      <option value="CA">Konquerors</option>
+      <option value="CO" selected>Krafts and Kultures</option>
+    </select>
 <h8>Kickers Registration includes one team jersey (100% polyester). All jerseys come in standard sizes<h8>
-  <form action="https://www.example.com" mehod="get" id="example-form" class="form-class">
-   <p>Select the desired size
-      <br />
-   <input type="radio" name="genre" value="humor" /> 3T
-      <br />
-   <input type="radio" name="genre" value="correct" checked="checked" /> 4T
-      <br />
-   <input type="radio" name="genre" value="satire" /> 5T
-      <br />
-      <input type="radio" name="genre" value="giving " /> Youth X-small (4-5)
-         <br />
-      <input type="radio" name="genre" value="giving " /> Youth Small (6-8)
-         <br />
-      <input type="radio" name="genre" value="giving " /> Youth Medium (9-11)
-         <br />
-      <input type="radio" name="genre" value="giving " /> Youth Large (12-14)
-         <br />
-      <input type="radio" name="genre" value="giving " /> Youth XL/Adult Small (15)
-         <br />
+    <form action="https://www.example.com" mehod="get" id="example-form" class="form-class">
+     <p>Select the desired size
+        <br />
+     <input type="radio" name="genre" value="humor" /> 3T
+        <br />
+     <input type="radio" name="genre" value="correct" checked="checked" /> 4T
+        <br />
+     <input type="radio" name="genre" value="satire" /> 5T
+        <br />
+        <input type="radio" name="genre" value="giving " /> Youth X-small (4-5)
+           <br />
+        <input type="radio" name="genre" value="giving " /> Youth Small (6-8)
+           <br />
+        <input type="radio" name="genre" value="giving " /> Youth Medium (9-11)
+           <br />
+        <input type="radio" name="genre" value="giving " /> Youth Large (12-14)
+           <br />
+        <input type="radio" name="genre" value="giving " /> Youth XL/Adult Small (15)
+           <br /></form>
+<h5>Contact Information</h5>
+              <fieldset>
+                 <label>Email:<br />
+                   <input type="email" name="email" />
+                 <br />
+                 <label>Home Phone:<br />
+                    <input type="text" name="telephone" /></label>
+                 <br />
+                 <label>Mobile:<br />
+                    <input type="text" name="mobile" /></label></br>
+                    <input type="submit" value="Submit" />
+              </fieldset>
+           </form>
